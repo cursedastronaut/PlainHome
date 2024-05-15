@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">plainhome</string>
+    <string name="introduction_text">
+        Thanks for downloading Plainhome.\n
+        This launcher aims to be very simple, as the colorful icons, the wallpaper,
+        and even widgets get us to spend more and more time on our phone, I decided
+        to make this to try and help to reduce their impacts.\n\n
+
+        If you want to set this launcher as default launcher, press the button
+        under this message. If you change your mind, you can launch your old
+        launcher through this one, and it will most likely prompt you to set it
+        as default. Have a nice day.
+        - @cursedastronaut on GitHub
+    </string>
+    <string name="next_button">Next</string>
+    <string name="set_as_default">Set as default launcher</string>
+</resources>
